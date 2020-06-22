@@ -10,3 +10,4 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - "master" branch in git
 - "slave" word
 - masterclass
+- black magic
