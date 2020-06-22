@@ -8,3 +8,5 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - whiteboard
 - blackboard
 - "master" branch in git
+- "slave" word
+- masterclass
