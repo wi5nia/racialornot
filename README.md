@@ -19,3 +19,12 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - slave replica
 - blackmail
 - blackout
+- black box testing
+- black-red tree
+- blackberry
+- white-box testing
+- white lines
+- master/slave node
+- red hat ;-)
+- Black-White Bakery Algorithm
+- colored graph
