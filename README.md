@@ -19,3 +19,6 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - slave replica
 - blackmail
 - blackout
+- white label
+- red-black tree
+- Black Red White
