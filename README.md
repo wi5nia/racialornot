@@ -11,3 +11,10 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - "slave" word
 - masterclass
 - black magic
+- whitelist
+- blacklist
+- whitehat
+- blackhat
+- master replica
+- slave replica
+- blackmail
