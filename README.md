@@ -1,6 +1,6 @@
 # racial or not?
 
-This reposiroty i meant to create a list of words, slogans, company names which may or not have racial connotations. Let's have a discussion if it makes sense to change them, are they really rasist? Feel free to use the feature Issues for that.
+This reposiroty i meant to create a list of words, slogans, company names which may or not have racial connotations. Let's have a discussion if it makes sense to change them, are they really rasist? Feel free to use the Issues feature for that.
 
 ## List
 
