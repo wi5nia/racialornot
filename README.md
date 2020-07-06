@@ -1,6 +1,6 @@
 # racial or not?
 
-This reposiroty i meant to create a list of words, slogans, company names which may or not have racial connotations. Let's have a discussion!
+This reposiroty i meant to create a list of words, slogans, company names which may or not have racial connotations. Let's have a discussion if it makes sense to change them, are they really rasist? Feel free to use the feature Issues for that.
 
 ## List
 
@@ -18,3 +18,4 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - master replica
 - slave replica
 - blackmail
+- blackout
