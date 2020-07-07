@@ -32,3 +32,6 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - red hat ;-)
 - Black-White Bakery Algorithm
 - colored graph
+- Homogenic / heterogenic env (sexism)
+- Black belt
+- Black Label (whisky)
