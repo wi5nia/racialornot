@@ -22,3 +22,12 @@ This reposiroty i meant to create a list of words, slogans, company names which 
 - white label
 - red-black tree
 - Black Red White
+- black box testing
+- black-red tree
+- blackberry
+- white-box testing
+- white lines
+- master/slave node
+- red hat ;-)
+- Black-White Bakery Algorithm
+- colored graph
